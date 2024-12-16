@@ -3,6 +3,9 @@
 Este repositório contém o projeto de QA desenvolvido como parte do **Bootcamp Atlântico Avanti**, essencial para a obtenção do certificado de 
 conclusão do curso. O objetivo foi realizar testes no **BugBank**, uma aplicação criada para práticas de QA, permitindo a criação de um ambiente 
 completo de validação de software.
+
+**Link:** [BugBank](https://link-do-projeto-ou-site.com)
+
 ---
 
 ## 📝 Descrição do Projeto  
