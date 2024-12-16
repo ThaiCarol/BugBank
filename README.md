@@ -31,3 +31,14 @@ Ele oferece um conjunto robusto de funcionalidades bancárias fictícias que pod
 
 - **🐛 Relatório de Bugs:**  
   Registro de todos os bugs identificados durante a fase de teste, com detalhes sobre a severidade, prioridade e status de correção.  
+
+## 🏷️ Tags
+
+- QA
+- Testes Automatizados
+- Cypress
+- Selenium
+- Testes de Regressão
+- Bug Tracking
+- Automação
+- Bootcamp Avanti Atlântico
